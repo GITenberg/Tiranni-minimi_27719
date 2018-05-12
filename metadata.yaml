@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3997
     wikipedia: http://it.wikipedia.org/wiki/Gerolamo_Rovetta
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27719#Tiranni-minimi
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2009-01-06'
 gutenberg_type: Text
